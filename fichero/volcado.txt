@@ -1,0 +1,6 @@
+Alumnos [cod=1, nombre=Manuel, ape=López Arguello, tel=683518785, fecha_nac=1984-11-24
+Alumnos [cod=2, nombre=Nicolás, ape=Solano Mora, tel=624535487, fecha_nac=1994-01-11
+Alumnos [cod=3, nombre=Luisa, ape=Arrollo Paniagua, tel=622224898, fecha_nac=1990-04-08
+Alumnos [cod=4, nombre=Andrea, ape=Quirós Solano, tel=626488786, fecha_nac=1975-07-09
+Alumnos [cod=5, nombre=Carlos, ape=Fernández Murillo, tel=684878611, fecha_nac=1991-12-25
+Alumnos [cod=6, nombre=Armando, ape=Mora Jiménez, tel=683797458, fecha_nac=1989-04-03
